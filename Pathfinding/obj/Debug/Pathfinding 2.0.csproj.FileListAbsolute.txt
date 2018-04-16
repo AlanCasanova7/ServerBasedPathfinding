@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\Dunno\SmallTestingServer\Pathfinding 2.0\bin\Debug\Pathfinding 2.0.exe.config
+C:\Users\Alan\Desktop\Dunno\SmallTestingServer\Pathfinding 2.0\bin\Debug\Pathfinding 2.0.exe
+C:\Users\Alan\Desktop\Dunno\SmallTestingServer\Pathfinding 2.0\bin\Debug\Pathfinding 2.0.pdb
+C:\Users\Alan\Desktop\Dunno\SmallTestingServer\Pathfinding 2.0\obj\Debug\Pathfinding 2.0.exe
+C:\Users\Alan\Desktop\Dunno\SmallTestingServer\Pathfinding 2.0\obj\Debug\Pathfinding 2.0.pdb
+C:\Users\Alan\Desktop\Dunno\SmallTestingServer\Pathfinding 2.0\bin\Debug\Assets\Grid.txt
+C:\Users\Alan\Desktop\Dunno\SmallTestingServer\Pathfinding 2.0\bin\Debug\Assets\Path.txt
+C:\Users\Alan\Desktop\Dunno\SmallTestingServer\Pathfinding 2.0\obj\Debug\Pathfinding 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\School And Other stuff\PROGETTO\PROJECT.0.2\SmallTestingServer\Pathfinding 2.0\bin\Debug\Assets\Grid.txt
+C:\Users\Alan\Desktop\School And Other stuff\PROGETTO\PROJECT.0.2\SmallTestingServer\Pathfinding 2.0\bin\Debug\Assets\Path.txt
+C:\Users\Alan\Desktop\School And Other stuff\PROGETTO\PROJECT.0.2\SmallTestingServer\Pathfinding 2.0\bin\Debug\Pathfinding 2.0.exe.config
+C:\Users\Alan\Desktop\School And Other stuff\PROGETTO\PROJECT.0.2\SmallTestingServer\Pathfinding 2.0\bin\Debug\Pathfinding 2.0.exe
+C:\Users\Alan\Desktop\School And Other stuff\PROGETTO\PROJECT.0.2\SmallTestingServer\Pathfinding 2.0\bin\Debug\Pathfinding 2.0.pdb
+C:\Users\Alan\Desktop\School And Other stuff\PROGETTO\PROJECT.0.2\SmallTestingServer\Pathfinding 2.0\obj\Debug\Pathfinding 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\School And Other stuff\PROGETTO\PROJECT.0.2\SmallTestingServer\Pathfinding 2.0\obj\Debug\Pathfinding 2.0.exe
+C:\Users\Alan\Desktop\School And Other stuff\PROGETTO\PROJECT.0.2\SmallTestingServer\Pathfinding 2.0\obj\Debug\Pathfinding 2.0.pdb
